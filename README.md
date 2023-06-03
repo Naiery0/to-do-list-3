@@ -1,4 +1,4 @@
-#To do list
+# H1, To do list
 Expo를 통해 작성한 프로그램입니다.
 
 이 어플은 
