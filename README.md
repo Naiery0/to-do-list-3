@@ -11,5 +11,6 @@ expo.dev에서 작성한 프로그램입니다.
 
 - Android 환경에 맞춰 개발 및 테스트하였음
 
+### 시연 영상
 https://github.com/user-attachments/assets/105d367c-640c-41a1-b620-cf696b429c2f
 
